@@ -10,13 +10,13 @@ const IndexPage: NextPage<Props> = ({ initialImageUrl }) => {
     const [imageurl, setImageUrl] = useState(initialImageUrl);
     const [loading, setLoading] = useState(false);
 
-     {/*useEffect(() => {
+     //useEffect(() => {
      //   fetchImage().then((newImage) => {
      //       setImageUrl(newImage.url);
      //       setLoading(false);
      //   });
      //} ,[]);
-     */}
+     //
      
 
     const handleClick = async () => {

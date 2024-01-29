@@ -48,7 +48,7 @@
   aspect-ratio: 1/1;
   box-sizing: border-box;
   border-radius: 8px;
-  border: 3px solid #343a40;
+  border: 3px solid #343a41;
   overflow: hidden;
   /* 画像読込中に表示するもの */
   background: repeat
